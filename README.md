@@ -1,12 +1,12 @@
-![logo](activity-data/images/pingkong.png)
+![logo](activity-data/images/hackthenews.png)
 
-# Ping Kong Activity
+# Hack the News Activity
 
-For many, "the Internet" is an abstract and overwhelming concept. This activity challenges learners to **think concretely about how the internet communicates with a computer.**
+Learners will use X-Ray Goggles to remix a news website, learning about **openly-licensed resources, different forms of media, and how to create something new on the Web through remix.**
 
-It lasts about 1-2 hours
+It lasts about 45 minutes to a hour.
 
-You can [view this activity online](http://mozilla.github.io/mozilla-club-activity-ping-kong).
+You can [view this activity online](http://mozilla.github.io/mozilla-club-activity-hack-the-news).
 
 ---
 
