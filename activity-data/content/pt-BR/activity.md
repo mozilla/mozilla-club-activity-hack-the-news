@@ -13,7 +13,7 @@ competência:
 Criado por [Hive New York City](http://hivenyc.org/) e remixado para Clubes pela [Mozilla](https://webmaker.org/mentor).
 
 
-Os alunos usarão o X-Ray Goggles para remixar um site de notícias, aprendendo sobre **recursos abertamente-licenciados, diferentes formas de mídia, e como criar algo novo na Web através de remixes.**
+Os estudantes usarão o X-Ray Goggles para remixar um site de notícias, aprendendo sobre **recursos abertamente-licenciados, diferentes formas de mídia, e como criar algo novo na Web através de remixes.**
 
 45 minutos a uma hora
 
@@ -21,11 +21,11 @@ Os alunos usarão o X-Ray Goggles para remixar um site de notícias, aprendendo 
 
 **Complete o** [questionário de pré atividade](http://goo.gl/forms/Uua6yKIy5E).
 
-Next **do the activity on your own** to become familiar with it. You may wish to set up a Webmaker account that you can share with your learners. This will save time later when they are ready to publish their remixes.
+Próximo **faça a atividade em seu próprio país** para se familiarizar com ele. Você pode querer configurar uma conta WebMaker que você pode compartilhar com seus estudantes. Isto vai poupar tempo mais tarde, quando eles estiverem prontos para publicar seus remixes.
 
-[Review this definition of the word "Hack"](https://wiki.mozilla.org/Webmaker/Teach/Terminology#Hack), so that you can help your learners (and colleagues!) understand a positive context for the word.
+[Revise a definição da palavra "Hack"](https://wiki.mozilla.org/Webmaker/Teach/Terminology#Hack), de modo que você possa ajudar seus estudantes(e colegas!) a entender o contexto positivo da palavra.
 
-Optional: Print the [HTML cheatsheet](https://mozteach.makes.org/thimble/html-cheatsheet) and [X-Ray Goggles reference guide](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet).
+Opicional: Imprima a [folha de cola sobre html](https://mozteach.makes.org/thimble/html-cheatsheet) e [guia de referência X-Ray Goggles](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet).
 
 ---
 
@@ -33,11 +33,12 @@ Optional: Print the [HTML cheatsheet](https://mozteach.makes.org/thimble/html-ch
 
 ### Introdução
 
-Welcome your students and explain that in this activity we're going to explore "remix." Give each student a piece of paper and a pencil.
+Dê as boas vindas aos seus estudantes e explique que nesta atividade vamos explorar os "remixes". 
+Dê a cada estudante uma folha de papel e um lápis.
 
-> In pairs, ask the students to sketch their favorite fictional character. No need for accuracy or too much detail — just draw it quickly.
+> Em pares, peça aos estudantes para rascunhar seus personagens fictícios favoritos. Não é necessário precisão ou muitos detalhes, apenas um rascunho rápido.
 
-After a few minutes, have the pairs swap their drawings. Prompt the students to add something to their partner's drawing. Explain that this is remix in action!
+Após alguns minutos, Peça aos pares para trocarem seus desenhos. Diga aos estudantes para acrescentar algo ao desenha da sua dupla. Explique a eles que isto é a remixagem em ação!
 
 ---
 
@@ -45,61 +46,61 @@ After a few minutes, have the pairs swap their drawings. Prompt the students to 
 
 ### Hackear as Notícias usando o X-Ray Goggles
 
-In the same pairs, if enough equipment is available, have the students open a modern web browser. Else, demonstrate on one computer and form small groups afterward so the students can try it on their own.
+Com os mesmos pares, caso possuam equipamento suficiente disponível, peça que os estudantes abram um navegador Web moderno,  senão, demonstre em um computador e forme pequenos grupos para que depois os estudantes possam testá-los por conta própria.
 
 #### Instalando o X-Ray Goggles
 
-Go to [goggles.webmaker.org](https://goggles.webmaker.org/). Demonstrate how to drag the big yellow “Activate X-Ray Goggles” button to your browser’s bookmarks toolbar.
+Vá para [goggles.webmaker.org](https://goggles.webmaker.org/). Mostre como arrastar o grande botão amarelo "Ative o X-Ray Goggles" para a barra de favoritos do seu navegador.
 
-![Image}(http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)]
+![Imagem}(http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)]
 
 #### Navegue para um site de notícias
 
-Ask for suggestions for news site. Think about local newspapers, your school paper, or a national news site like The New York Times or The Guardian. Try to find websites that use a good amount of HTML, and not a lot of Javascript as it will be easier for your learners to remix.
 
-> Don’t worry — you’re not actually hacking the site for others. You’re changing a local version of the site that only you can see.
+Peça sugestões para um site de notícias. Pense em jornais locais, o seu jornal de escola, ou um site nacional de notícias como O globo ou o olha de São Paulo. Tente encontrar sites que usam uma boa quantidade de HTML, e não um monte de Javascript, uma vez que será mais fácil para os seus estudantes remixarem.
+
+> Não se preocupe - você não está realmente hackeando o site de outros. Você está alterando uma versão local do site que só você pode ver.
 
 ####Decida um tema para remixar
 
-Inspired by the characters from the introduction, decide on a remix theme. Ideas include Nyan Cat, the Kraken, King Kong, or similar locally relevant characters. 
+Inspirado pelos personagens da introdução, decida um tema para remixagem. Idéias incluem o gato Nyan, o Kraken, King Kong, ou relevantes personagens locais similares. 
 
-![Image](http://mozilla.github.io/webmaker-curriculum/images/newshack-example.png)
+![Imagem](http://mozilla.github.io/webmaker-curriculum/images/newshack-example.png)
 
 ####Ative o Goggles
 
-Click the Goggles in your bookmark toolbar to turn them on. Now when you mouse over elements of the news page, you’ll see the code underneath.
+Clique no óculos na sua barra de favoritos para ligá-lo. Agora, quando você passar o mouse pelos elementos da página de notícias, você verá o código abaixo.
 
 ####Clique no botão “remix”
 
-Hit “R” on the keyboard to remix any element.
+Pressione “R” no teclado para remixar algum elemento.
 
 ####Mude o texto e troque as imagens
 
-Try changing the headlines or rewriting some of the stories based on your fictional character. Edit some of the links and play with font size and color.
+Tente alterar as notícias ou reescrever algumas das histórias com base em seu personagem fictício. Edite alguns dos links e brinque com o tamanho e cor da fonte.
 
-Mouse over an image on the page and hit “R” / “Remix.” Then paste in the address/URL for your new image. To grab an image from Facebook or Instagram, you'll need to click into the post, then right-click and "Copy the Image Location".
+Passe o mouse sobre uma imagem na página e pressione "R" / "Remix". Em seguida, cole o endereço/URL para sua nova imagem. Para pegar uma imagem do Facebook ou Instagram, você precisa clicar no post, em seguida, clique com botão direito e "Copie o endereço da imagem".
 
-> **TIP:** How to find and swap in openly licensed image. The Creative Commons search page or the advanced settings in Google help you easily find an image you like with permission to use it. Right-click or control-click on the image you want and select: “Copy image location.” (Or “Copy image URL” or “Copy image address”, depending on your web browser.) Then paste your new image URL over top of the old one. Be careful not to lose the quotation marks!
+> **DICA:** Como encontrar e trocar uma imagem com licensa aberta. A página de busca da Creative Commons ou as configurações avançadas no Google podem ajudá-lo a encontrar facilmente uma imagem que você goste com permissão para uso. Clique com o botão direito do mouse ou user o 'control'+ clique do mouse na imagem que deseja e escolha: "Copiar localização da imagem" (ou "Copiar URL da imagem" ou "Copiar endereço da imagem", dependendo do seu navegador Web.) Em seguida, cole a nova URL da imagem sobre a parte superior do antigo. Tenha cuidado para não perder as aspas!
 
 ![Imagem](http://mozilla.github.io/webmaker-curriculum/images/newshack-example-2.png)
 
 ####Compartilhe
 
-**Publish your remix.** Once you’re done, click the Publish button, or press P on your keyboard. This makes your changes visible on the web for others to see.
+**Publique sua remixagem.** Uma vez terminado, clique no botão Publicar, ou pressione P em seu teclado. Esta ação faz suas modificações visíveis na internet para que outras pessoas vejam.
 
-**Take it a step further.** Have learners share their hacks with the news station their remixes used. Most news stations are on twitter, so try tweeting a link to them and think about their reactions.
+**Dê um passo a mais ** Os estudantes já compartilham seus hacks com a estação de notícias usando seus remixes. A maioria das estações de notícias estão no twitter, desse modo, podemos tentar twittar um link para eles e refletir sobre suas reações.
 
 ---
 
 10<br>min
 
-### Reflect and review
+### Reflita e revise
 
-Demo a few of the remixed pages and ask students to share what they changed. Consider prompts such as:
+Demonstre algumas páginas remixadas e peça aos estudantes que digam o que foi mudado. a few of the remixed pages and ask students to share what they changed. Considere um roteiro como:
 
-> What version of the website do you like more? What else would you remix? What do you wish you could remix but couldn’t? Why not? How else can you find media that you can remix?
+> Qual versão do website que você gostou mais? O que mais você remixaria? O que você gostaria de remixar mas não conseguiu? Por que não? Como você pode encontrar mídias que você pode remixar?
 
-If time permits, **invite students to continue by remixing their partner's new page.** You can discuss how the web makes it easy to modify content in this way and that we're always remixing and building on what others have made.
+Se o tempo permitir, **convide os estudantes a continuar a remixagem em uma nova página do seu parceiro.** Você pode discutir como a Web é feita para ser fácil de modificar o conteúdo desta forma e nós estamos sempre remixando e construindo sobre criações de outros.
 
-You can also discuss credibility and how understanding remix changes how you read or interpret information, as well as think about who authored it. This can build on [previous Kraken activity](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html).
-
+Você pode discutir a credibilidade e como entender as mudanças de remixagem, muda a forma que você pode ler e interpretar a informação, assim como pensar sobre seu autor. Isso pode ser construído sobre [atividade anterior do Kraken](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html).
