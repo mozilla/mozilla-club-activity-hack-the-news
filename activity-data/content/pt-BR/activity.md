@@ -25,7 +25,7 @@ Próximo **faça a atividade em seu próprio país** para se familiarizar com el
 
 [Revise a definição da palavra "Hack"](https://wiki.mozilla.org/Webmaker/Teach/Terminology#Hack), de modo que você possa ajudar seus estudantes(e colegas!) a entender o contexto positivo da palavra.
 
-Opicional: Imprima a [folha de cola sobre html](https://mozteach.makes.org/thimble/html-cheatsheet) e [guia de referência X-Ray Goggles](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet).
+Opcional: Imprima a [folha de cola sobre html](https://mozteach.makes.org/thimble/html-cheatsheet) e [guia de referência X-Ray Goggles](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet).
 
 ---
 
@@ -57,7 +57,7 @@ Vá para [goggles.webmaker.org](https://goggles.webmaker.org/). Mostre como arra
 #### Navegue para um site de notícias
 
 
-Peça sugestões para um site de notícias. Pense em jornais locais, o seu jornal de escola, ou um site nacional de notícias como O globo ou o olha de São Paulo. Tente encontrar sites que usam uma boa quantidade de HTML, e não um monte de Javascript, uma vez que será mais fácil para os seus estudantes remixarem.
+Peça sugestões para um site de notícias. Pense em jornais locais, o seu jornal de escola, ou um site nacional de notícias como O globo ou o Folha de São Paulo. Tente encontrar sites que usam uma boa quantidade de HTML, e não um monte de Javascript, uma vez que será mais fácil para os seus estudantes remixarem.
 
 > Não se preocupe - você não está realmente hackeando o site de outros. Você está alterando uma versão local do site que só você pode ver.
 
@@ -81,7 +81,7 @@ Tente alterar as notícias ou reescrever algumas das histórias com base em seu 
 
 Passe o mouse sobre uma imagem na página e pressione "R" / "Remix". Em seguida, cole o endereço/URL para sua nova imagem. Para pegar uma imagem do Facebook ou Instagram, você precisa clicar no post, em seguida, clique com botão direito e "Copie o endereço da imagem".
 
-> **DICA:** Como encontrar e trocar uma imagem com licensa aberta. A página de busca da Creative Commons ou as configurações avançadas no Google podem ajudá-lo a encontrar facilmente uma imagem que você goste com permissão para uso. Clique com o botão direito do mouse ou user o 'control'+ clique do mouse na imagem que deseja e escolha: "Copiar localização da imagem" (ou "Copiar URL da imagem" ou "Copiar endereço da imagem", dependendo do seu navegador Web.) Em seguida, cole a nova URL da imagem sobre a parte superior do antigo. Tenha cuidado para não perder as aspas!
+> **DICA:** Como encontrar e trocar uma imagem com licença aberta. A página de busca da Creative Commons ou as configurações avançadas do Google podem ajudá-lo a encontrar facilmente uma imagem que você goste com permissão para uso. Clique com o botão direito do mouse ou user o 'control'+ clique do mouse na imagem que deseja e escolha: "Copiar localização da imagem" (ou "Copiar URL da imagem" ou "Copiar endereço da imagem", dependendo do seu navegador Web.) Em seguida, cole a nova URL da imagem sobre a parte superior do antigo. Tenha cuidado para não perder as aspas!
 
 ![Imagem](http://mozilla.github.io/webmaker-curriculum/images/newshack-example-2.png)
 
