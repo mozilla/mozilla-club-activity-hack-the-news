@@ -1,3 +1,4 @@
 [
-  {"name": "English", "code": "en"}
+  {"name": "English", "code": "en"},
+  {"name": "Português (do Brasil)", "code": "pt-BR"}
 ]

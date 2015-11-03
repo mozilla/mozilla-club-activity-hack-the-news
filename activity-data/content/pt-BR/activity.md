@@ -1,8 +1,8 @@
 ---
 title: Hackear as Notícias
 github: mozilla/mozilla-club-activity-hack-the-news
-imagem: hackthenews.png
-competência:
+image: hackthenews.png
+competencies:
     - {label: "Remixagem", type: "remixagem"}
 ---
 

@@ -1,7 +1,7 @@
 #### Público
 
 * 8+
-* começando pensadores críticos
+* Jovens pensadores críticos
 
 #### Materiais
 
