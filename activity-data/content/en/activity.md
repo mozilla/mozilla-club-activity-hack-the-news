@@ -100,5 +100,5 @@ Demo a few of the remixed pages and ask students to share what they changed. Con
 
 If time permits, **invite students to continue by remixing their partner's new page.** You can discuss how the web makes it easy to modify content in this way and that we're always remixing and building on what others have made.
 
-You can also discuss credibility and how understanding remix changes how you read or interpret information, as well as think about who authored it. This can build on [previous Kraken activity](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html).
+You can also discuss credibility and how understanding remix changes how you read or interpret information, as well as think about who authored it. This can build on [previous Kraken activity](http://mozilla.github.io/mozilla-club-activity-kraken-the-code/#en).
 
