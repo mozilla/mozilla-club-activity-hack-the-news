@@ -24,7 +24,7 @@ A continuación, **realiza la actividad de forma individual** para familiarizart
 
 [Revisa esta definición de la palabra "Hack"](https://wiki.mozilla.org/Webmaker/Teach/Terminology#Hack), para que puedas ayudar a tus aprendices (¡y colegas!) a entender el contexto positivo de la palabra.
 
-Opcional: Imprime la [Hoja de referencia HTML](https://mozteach.makes.org/thimble/html-cheatsheet) y la [Guía de referencia de los Lentes de rayos X](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet).
+Opcional: Imprime la [Hoja de referencia HTML](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/) y la [Guía de referencia de los Lentes de rayos X](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/).
 
 ---
 
@@ -50,7 +50,7 @@ En las mismas parejas, si hay suficientes equipos disponibles, haz que los estud
 
 Ve a [goggles.webmaker.org](https://goggles.webmaker.org/). Muestra cómo arrastrar el gran botón amarillo "Activar Lentes de rayos X" a la barra de herramientas del navegador.
 
-![Image](http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)
+![Imagen](http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)
 
 #### Navega a un sitio web de noticias
 

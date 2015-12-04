@@ -8,8 +8,8 @@
 
 * Papeles y lápices
 * Navegador web
-* (opcional) [hoja de referencia HTML impresa](https://mozteach.makes.org/thimble/html-cheatsheet)
-* (opcional) [guía de referencia de los Lentes de rayos X impresa](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet)
+* (opcional) [hoja de referencia HTML impresa](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/)
+* (opcional) [guía de referencia de los Lentes de rayos X impresa](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/)
 
 
 #### Objetivos de aprendizaje
