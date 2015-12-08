@@ -25,7 +25,7 @@ Próximo **faça a atividade em seu próprio país** para se familiarizar com el
 
 [Revise a definição da palavra "Hack"](https://wiki.mozilla.org/Webmaker/Teach/Terminology#Hack), de modo que você possa ajudar seus estudantes(e colegas!) a entender o contexto positivo da palavra.
 
-Opcional: Imprima a [folha de cola sobre html](https://mozteach.makes.org/thimble/html-cheatsheet) e [guia de referência X-Ray Goggles](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet).
+Opcional: Imprima a [folha de cola sobre html](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/) e [guia de referência X-Ray Goggles](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/).
 
 ---
 

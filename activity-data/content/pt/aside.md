@@ -8,8 +8,8 @@
 
 * Papéis e lápis
 * Navegador web
-* (opcional) [folha de cola sobre html impressa](https://mozteach.makes.org/thimble/html-cheatsheet)
-* (opcional) [guia de referência X-Ray Goggles impresso](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet)
+* (opcional) [folha de cola sobre html impressa](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/)
+* (opcional) [guia de referência X-Ray Goggles impresso](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/)
 
 
 #### Objetivos de aprendizado

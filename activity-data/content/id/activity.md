@@ -24,7 +24,7 @@ Selanjutnya **lakukan aktifitas anda sendiri** agar menjadi familiar. Anda mungk
 
 [Tinjau definisi kata "Hack"](https://wiki.mozilla.org/Webmaker/Teach/Terminology#Hack), sehingga Anda dapat membantu peserta didik ( ! dan rekan) memahami konteks positif untuk kata tersebut.
 
-Opsional: Cetak [Contekan HTML](https://mozteach.makes.org/thimble/html-cheatsheet) dan [panduan referensi X-Ray Goggles](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet).
+Opsional: Cetak [Contekan HTML](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/) dan [panduan referensi X-Ray Goggles](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/).
 
 ---
 

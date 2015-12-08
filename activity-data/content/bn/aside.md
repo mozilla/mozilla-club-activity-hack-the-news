@@ -8,8 +8,8 @@
 
 * কাগজ ও কলম
 * ওয়েব ব্রাউজার
-* (ঐচ্ছিক) [প্রিন্ট করা HTML চিটশিট](https://mozteach.makes.org/thimble/html-cheatsheet)
-* (ঐচ্ছিক) [প্রিন্ট করা এক্স-রে গোগলস-এর বরাতকৃত গাইড](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet)
+* (ঐচ্ছিক) [প্রিন্ট করা HTML চিটশিট](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/)
+* (ঐচ্ছিক) [প্রিন্ট করা এক্স-রে গোগলস-এর বরাতকৃত গাইড](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/)
 
 
 #### শেখার উদ্দেশ্য

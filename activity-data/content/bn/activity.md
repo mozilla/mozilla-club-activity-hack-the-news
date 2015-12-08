@@ -26,7 +26,7 @@ competencies:
 
 ["হ্যাক" শব্দটির সংজ্ঞা পর্যালোচনা করুন](https://wiki.mozilla.org/Webmaker/Teach/Terminology#Hack), যেন আপনি আপনার শিক্ষার্থীদের (এবং সহকর্মীদের!) সাহায্য করতে পারেন এই শব্দের নীতিবাচক প্রসঙ্গ বুঝানোর জন্য।
 
-ঐচ্ছিক: প্রিন্ট করুন [HTML চিটশিট](https://mozteach.makes.org/thimble/html-cheatsheet) এবং [এক্স-রে গোগলস-এর বরাতকৃত গাইড](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet)।
+ঐচ্ছিক: প্রিন্ট করুন [HTML চিটশিট](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/) এবং [এক্স-রে গোগলস-এর বরাতকৃত গাইড](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/)।
 
 ---
 

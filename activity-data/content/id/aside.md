@@ -8,8 +8,8 @@
 
 * Ketas dan pena
 * Web browser
-* (opsional) [Cetakan contekan HTML](https://mozteach.makes.org/thimble/html-cheatsheet)
-* (opsional) [Cetakan Petunjuk referensi X-Ray Goggles ](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet)
+* (opsional) [Cetakan contekan HTML](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/)
+* (opsional) [Cetakan Petunjuk referensi X-Ray Goggles ](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/)
 
 
 #### Tujuan Pembelajaran

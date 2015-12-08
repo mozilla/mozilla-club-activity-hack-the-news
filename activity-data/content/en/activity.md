@@ -24,7 +24,7 @@ Next **do the activity on your own** to become familiar with it. You may wish to
 
 [Review this definition of the word "Hack"](https://wiki.mozilla.org/Webmaker/Teach/Terminology#Hack), so that you can help your learners (and colleagues!) understand a positive context for the word.
 
-Optional: Print the [HTML cheatsheet](https://mozteach.makes.org/thimble/html-cheatsheet) and [X-Ray Goggles reference guide](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet).
+Optional: Print the [HTML cheatsheet](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/) and [X-Ray Goggles reference guide](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/).
 
 ---
 

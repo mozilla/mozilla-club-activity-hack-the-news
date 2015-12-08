@@ -8,8 +8,8 @@
 
 * Papers and pens
 * Web browser
-* (optional) [printed HTML cheatsheet](https://mozteach.makes.org/thimble/html-cheatsheet)
-* (optional) [printed X-Ray Goggles reference guide](https://mozteach.makes.org/thimble/xray-goggles-cheatsheet)
+* (optional) [printed HTML cheatsheet](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/)
+* (optional) [printed X-Ray Goggles reference guide](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/)
 
 
 #### Learning Objectives
