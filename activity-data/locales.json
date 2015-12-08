@@ -3,6 +3,8 @@
   {"name": "Bengali", "code": "bn"},
   {"name": "English", "code": "en"},
   {"name": "Indonesian", "code": "id"},
-  {"name": "Português", "code": "pt"}
+  {"name": "Português", "code": "pt"},
+  {"name": "Español", "code": "es"}
+
 
 ]
