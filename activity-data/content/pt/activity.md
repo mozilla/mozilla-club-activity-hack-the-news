@@ -52,7 +52,7 @@ Com os mesmos pares, caso possuam equipamento suficiente disponível, peça que 
 
 Vá para [goggles.webmaker.org](https://goggles.webmaker.org/). Mostre como arrastar o grande botão amarelo "Ative o X-Ray Goggles" para a barra de favoritos do seu navegador.
 
-![Imagem}(http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)]
+![Imagem](http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)
 
 #### Navegue para um site de notícias
 

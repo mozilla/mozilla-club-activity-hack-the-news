@@ -50,7 +50,7 @@ In the same pairs, if enough equipment is available, have the students open a mo
 
 Go to [goggles.webmaker.org](https://goggles.webmaker.org/). Demonstrate how to drag the big yellow “Activate X-Ray Goggles” button to your browser’s bookmarks toolbar.
 
-![Image}(http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)]
+![Image](http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)
 
 #### Navigate to a news web site
 

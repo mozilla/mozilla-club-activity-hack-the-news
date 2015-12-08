@@ -52,7 +52,7 @@ competencies:
 
 [goggles.webmaker.org](https://goggles.webmaker.org/) এ যান। কিভাবে বড় হলুদ রঙের "Activate X-Ray Goggles" বাটনটি আপনার ব্রাউজারের বুকমার্ক টুলবারে আনা যায় তা প্রদর্শন করুন।
 
-![ছবি}(http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)]
+![ছবি](http://mozilla.github.io/webmaker-curriculum/images/newshack-example-animated.gif)
 
 #### নিউজ ওয়েবসাইট নেভিগেট করুন
 
