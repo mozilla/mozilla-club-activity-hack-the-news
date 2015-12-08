@@ -20,7 +20,7 @@
 
 #### Atividade em Ação!
 
-![Imagem}(http://mozilla.github.io/webmaker-curriculum/images/hackthenews-action.jpg)]
+![Imagem](http://mozilla.github.io/webmaker-curriculum/images/hackthenews-action.jpg)
 [Hive Pittsburgh: Projeto Jovens Hackers de Pittsburgh](http://hivepgh.sproutfund.org/blog/2014/12/15/pittsburgh-project-youth-get-hacking/)
 
 #### Veja as remixagens da comunidade
