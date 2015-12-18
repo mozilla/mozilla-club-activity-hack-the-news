@@ -1,6 +1,7 @@
 [
 
   {"name": "Bengali", "code": "bn"},
+  {"name": "Dutch", "code": "nl"},
   {"name": "English", "code": "en"},
   {"name": "Indonesian", "code": "id"},
   {"name": "Português", "code": "pt"},
