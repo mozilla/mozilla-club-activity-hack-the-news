@@ -25,4 +25,4 @@
 
 #### Mira también las mezclas de la comunidad
 
-Revisa las distintas formas en que educadores y activistas han modificado esta actividad para sus audiencias específicas en nuestro [Foto de discusión](https://discourse.webmaker.org/c/curriculum).
+Revisa las distintas formas en que educadores y activistas han modificado esta actividad para sus audiencias específicas en nuestro [Foro de discusión](https://discourse.webmaker.org/c/curriculum).
