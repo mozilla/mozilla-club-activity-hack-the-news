@@ -24,7 +24,7 @@ A continuación, **realiza la actividad de forma individual** para familiarizart
 
 [Revisa esta definición de la palabra "Hack"](https://wiki.mozilla.org/Webmaker/Teach/Terminology#Hack), para que puedas ayudar a tus aprendices (¡y colegas!) a entender el contexto positivo de la palabra.
 
-Opcional: Imprime la [Hoja de referencia HTML](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/) y la [Guía de referencia de los Lentes de rayos X](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17419/).
+Opcional: Imprime la [Hoja de referencia HTML](https://d157rqmxrxj6ey.cloudfront.net/amaciel/17418/) y la [Guía de referencia de los Lentes de rayos X](https://d157rqmxrxj6ey.cloudfront.net/amaciel/18570/).
 
 ---
 
