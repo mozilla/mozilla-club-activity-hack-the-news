@@ -1,8 +1,8 @@
 [
 
-  {"name": "Bengali", "code": "bn"},
+  {"name": "বাংলা", "code": "bn"},
   {"name": "English", "code": "en"},
-  {"name": "Indonesian", "code": "id"},
+  {"name": "Bahasa Indonesia", "code": "id"},
   {"name": "Português", "code": "pt"},
   {"name": "Español", "code": "es"}
 
