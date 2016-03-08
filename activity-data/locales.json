@@ -1,11 +1,10 @@
 [
-
+  {"name": "中文", "code": "zh-s"},
   {"name": "বাংলা", "code": "bn"},
   {"name": "Nederlands", "code": "nl"},
   {"name": "English", "code": "en"},
   {"name": "Bahasa Indonesia", "code": "id"},
   {"name": "Português", "code": "pt"},
-  {"name": "Español", "code": "es"}
-
-
+  {"name": "Español", "code": "es"},
+  {"name": "Svenska", "code": "sv"}
 ]
