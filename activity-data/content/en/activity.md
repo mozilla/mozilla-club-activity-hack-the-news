@@ -2,8 +2,17 @@
 title: Hack the News
 github: mozilla/mozilla-club-activity-hack-the-news
 image: hackthenews.png
+competencies_label: Web Literacy Skills
 competencies:
-    - {label: "Remixing", type: "remixing"}
+    - {label: "Connect", type: "connect"}
+    - {label: "Code", type: "code"}
+    - {label: "Compose", type: "compose"}
+    - {label: "Open Practice", type: "open-practice"}
+skills_label: 21st Century Skills
+skills: 
+    - {label: "Problem Solving", type: "problem-solving"}
+    - {label: "Creativity", type: "creativity"}
+    - {label: "Communication", type: "communication"}
 ---
 
 ## [Section 2. Writing the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
